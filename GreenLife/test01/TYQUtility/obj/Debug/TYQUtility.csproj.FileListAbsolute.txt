@@ -1,0 +1,5 @@
+E:\test01.1\test01\TYQUtility\bin\Debug\TYQUtility.dll
+E:\test01.1\test01\TYQUtility\bin\Debug\TYQUtility.pdb
+E:\test01.1\test01\TYQUtility\obj\Debug\TYQUtility.csprojAssemblyReference.cache
+E:\test01.1\test01\TYQUtility\obj\Debug\TYQUtility.dll
+E:\test01.1\test01\TYQUtility\obj\Debug\TYQUtility.pdb
